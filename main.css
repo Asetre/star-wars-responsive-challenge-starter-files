@@ -1,0 +1,22 @@
+* {
+	font-family: sans-serif;
+}
+
+.head {
+	background-color: #EFBC44;
+	margin-bottom: 40px;
+}
+
+.container {
+	border: solid lightgrey 1px;
+	margin: 10px 0;
+}
+
+.profile-pic {
+	width: 100%;
+}
+
+h3, p {
+	padding-left: 20px;
+	width: 100%;
+}
